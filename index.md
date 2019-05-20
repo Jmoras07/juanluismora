@@ -11,7 +11,7 @@ layout: default
 
 ## My FootBallCloud
 
-### Director
+### Director -
 
 *   6 Years experience - Teacher of tactic, methodology and sport management
 
